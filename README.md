@@ -1,7 +1,7 @@
-# 🖌️ Wdrawler
+# 🖌️ WDrawler
 
 Welcome, fellow disciples of the Wibu Cave!  
-`Wdrawler` lets you **auto-draw images on Wplace**, bypassing Cloudflare… for now 😏
+`WDrawler` lets you **auto-draw images on Wplace**, bypassing Cloudflare… for now 😏
 
 ---
 
@@ -16,7 +16,7 @@ Welcome, fellow disciples of the Wibu Cave!
 ## ⚠️ Current Status
 
 Due to Wplace deploying **new anti-magic tricks** (advanced request checks),  
-`Wdrawler` may currently hit **403 Forbidden errors** 💀.  
+`WDrawler` may currently hit **403 Forbidden errors** 💀.  
 
 We release it publicly so everyone can **fix & enhance** it.  
 
@@ -35,8 +35,8 @@ We release it publicly so everyone can **fix & enhance** it.
 1. **Clone this repo**:
 
     ```bash
-    git clone https://github.com/YourUsername/Wdrawler.git
-    cd Wdrawler
+    git clone https://github.com/hangdongwibu/WDrawler.git
+    cd WDrawler
     ```
 
 2. **Install Python 3.10.11** (if not already installed).
