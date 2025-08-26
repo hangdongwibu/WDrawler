@@ -51,18 +51,19 @@ We release it publicly so everyone can **fix & enhance** it.
     ```
 
 4. **Get your Wplace token** (authentication required).
+![Token](https://media.discordapp.net/attachments/1287299127306227712/1409780418256965673/image.png?ex=68ae9fd4&is=68ad4e54&hm=1f04caf95f78df64b51bb598c9a141214a182fe046edcb2d10157e079e3dc312&=&format=webp&quality=lossless)
 
-5. **Run the local API**:
+6. **Run the local API**:
     ```bash
     python api_solver.py
     ```
 
-6. **Choose an image** you want to draw.
+7. **Choose an image** you want to draw.
 
-7. **Convert colors**:
+8. **Convert colors**:
     https://pepoafonso.github.io/color_converter_wplace (Free colors only)
 
-8. **Run the wplace.py code**.
+9. **Run the wplace.py code**.
 When it asks for the image path, provide the path of the image you converted in step 7.
 
 ✅ Done! Enjoy your auto-drawing session.
